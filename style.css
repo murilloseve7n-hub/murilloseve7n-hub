@@ -1,0 +1,133 @@
+
+/* Configurações gerais */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Corpo do site */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #0f172a;
+    color: white;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #1e293b;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+header h1 {
+    font-size: 36px;
+    margin-bottom: 15px;
+}
+
+header p {
+    color: #94a3b8;
+    font-size: 18px;
+}
+
+/* Conteúdo principal */
+main {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+/* Seções */
+section {
+    background-color: #1e293b;
+    padding: 25px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+}
+
+section h2 {
+    color: #38bdf8;
+    margin-bottom: 15px;
+}
+
+section p {
+    line-height: 1.6;
+    color: #cbd5e1;
+}
+
+/* Rodapé */
+footer {
+    text-align: center;
+    padding: 25px;
+    color: #94a3b8;
+}
+/* Botões de contato */
+section a {
+    display: inline-block;
+    background-color: #38bdf8;
+    color: #0f172a;
+    text-decoration: none;
+    padding: 12px 18px;
+    border-radius: 8px;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+/* Efeito ao passar o mouse */
+section a:hover {
+    background-color: #0ea5e9;
+}
+/* Ajustes para celulares */
+@media (max-width: 600px) {
+
+    header {
+        padding: 35px 15px;
+    }
+
+    header h1 {
+        font-size: 28px;
+    }
+
+    header p {
+        font-size: 16px;
+    }
+
+    main {
+        margin: 20px auto;
+        padding: 15px;
+    }
+
+    section {
+        padding: 20px;
+    }
+
+    section a {
+        display: block;
+        text-align: center;
+        margin: 10px 0;
+    }
+}
+/* Cartão de projeto */
+.projeto {
+    background-color: #0f172a;
+    padding: 20px;
+    border-radius: 10px;
+    border-left: 4px solid #38bdf8;
+}
+
+.projeto h3 {
+    margin-bottom: 12px;
+    color: white;
+}
+
+.projeto p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
+.projeto span {
+    color: #38bdf8;
+    font-size: 14px;
+    font-weight: bold;
+}
