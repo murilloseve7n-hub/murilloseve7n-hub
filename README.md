@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**murilloseve7n-hub/murilloseve7n-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou Murillo Fleischacker 👋
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Estou iniciando minha jornada na área de tecnologia, desenvolvendo conhecimentos em programação e desenvolvimento de sistemas.
+
+## 🚀 Atualmente estudando
+
+- Lógica de programação
+- Linguagem C
+- HTML e CSS
+- Fundamentos de desenvolvimento de sistemas
+- Banco de dados
+
+## 🎯 Objetivo profissional
+
+Busco uma oportunidade de estágio em Tecnologia da Informação para desenvolver minhas habilidades, adquirir experiência prática e crescer profissionalmente na área.
+
+## 🔗 Contato
+
+- LinkedIn: [Meu perfil](https://www.linkedin.com/in/murillo-fleischacker-984082435/)
